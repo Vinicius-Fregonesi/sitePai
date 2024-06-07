@@ -1,0 +1,54 @@
+# Guareis Construtor Website
+
+## Descrição
+
+Este repositório contém o código-fonte do site do Guareis Construtor, uma microempresa individual (MEI) que oferece serviços na área de construção civil. O site apresenta informações sobre a empresa, seus serviços, exemplos de trabalhos realizados e um formulário para solicitar orçamentos.
+
+## Estrutura do Projeto
+
+- `index.html`: Página inicial do site, que dá as boas-vindas aos visitantes e apresenta um resumo dos serviços oferecidos.
+- `features.html`: Página detalhando os principais serviços e trabalhos realizados pela empresa.
+- `contact-us.html`: Página com um formulário para que os clientes possam solicitar orçamentos.
+- `assets/`: Diretório que contém recursos estáticos como CSS, JavaScript e imagens.
+  - `assets/bootstrap/`: Arquivos do framework Bootstrap utilizados para o design responsivo.
+  - `assets/fonts/`: Arquivos de fontes customizadas usadas no site.
+  - `assets/css/`: Arquivos de estilos customizados.
+  - `assets/js/`: Arquivos JavaScript customizados.
+  - `assets/img/`: Imagens utilizadas no site, incluindo fotos de trabalhos realizados e elementos gráficos.
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+  - Bootstrap 4
+- JavaScript
+  - jQuery
+- Fontes do Google Fonts
+
+## Estrutura das Páginas
+
+### Página Inicial (`index.html`)
+
+A página inicial contém uma navegação fixa no topo com links para outras páginas do site, uma seção de boas-vindas com um breve resumo dos serviços oferecidos, e uma seção "Conheça-nos Melhor" com detalhes sobre a empresa e o proprietário.
+
+### Trabalhos (`features.html`)
+
+Esta página apresenta uma galeria de imagens dos principais trabalhos realizados pela empresa, utilizando um carrossel para exibição das imagens.
+
+### Faça seu Orçamento (`contact-us.html`)
+
+Nesta página, os visitantes podem preencher um formulário com seu nome, telefone, e-mail e detalhes do serviço que desejam solicitar. O formulário permite que os clientes descrevam o trabalho e anexem documentos, como plantas.
+
+## Contato
+
+Para mais informações ou dúvidas, entre em contato através das redes sociais:
+- [Instagram](#)
+- [Facebook](#)
+
+## Créditos
+
+Desenvolvido por Vinícius Fregonesi Olimpio.
+
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT. Para mais detalhes, consulte o arquivo LICENSE.
